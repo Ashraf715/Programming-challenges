@@ -1,5 +1,4 @@
 rods = float(input ("Enter the number of rods."))
-#conversions begin here
 meters = rods*5.0292
 feet = rods*5.0292/0.3048
 miles = rods*5.0292/1609.34
