@@ -16,8 +16,8 @@ def rods_to_mtw(rods):
 
 print (f"You entered {rods} rods")
 print ("Here are the conversions:")
-print ("Meters:", rods_to_meters(rods))
-print ("Feet:", rods_to_feet(rods))
-print ("Miles:", rods_to_miles(rods))
-print ("Furlongs:", rods_to_furlongs(rods))
-print (f"Minutes to walk {rods} rods:", rods_to_mtw(rods))
+print (f"Meters: {rods_to_meters(rods)}")
+print (f"Feet: {rods_to_feet(rods)}")
+print (f"Miles: {rods_to_miles(rods)}")
+print (f"Furlongs: {rods_to_furlongs(rods)}")
+print (f"Minutes to walk {rods} rods:{rods_to_mtw(rods)}")
