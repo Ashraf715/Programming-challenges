@@ -32,29 +32,3 @@ if __name__ == "__main__":
     html_data = read_html(path=html_file)
     print(process(csv=csv_data, html=html_data))
     webbrowser.open("south.html")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
