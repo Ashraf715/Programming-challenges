@@ -87,7 +87,3 @@ def process_results(rows):
         for x in range (0, len(teams)):
             print(f"{premierleague_teams(d_dictionary)}:({totpoints(d_dictionary)})({goal_differences(d_dictionary)})({wins(d_dictionary)}")
         
-
-    
-            
-
